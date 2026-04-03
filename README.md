@@ -14,5 +14,8 @@ Documenting my SQL learning journey including fundamentals, queries, and hands-o
 - [04 - Insert Queries](./04-insert-query.md)
 - [05 - Select, Update, Delete](./05-select-update-delete.md)
 - [06 - Commit, Rollback, Date Functions](./06-commit-rollback-date.md)
+- [07 - Constraints](07-constraint.md)
+- [08 - Primary Key & Auto Increment](08-primary-autoIncrement.md)
+- [09 - Foreign Key](09-foreignKey.md)
 
 ---
